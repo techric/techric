@@ -1,7 +1,7 @@
-- 🔭 I’m currently working on improving my skills with Linux via the Linux Foundation's courses and certification programs. When not studying, I'm either building, managing, or learning more about cryptocurrency mining machines such as: GPU miners; HNT IoT wireless nodes,or Bitcoin/Litecoin Lightning nodes.
-- 🌱 I’m currently learning how to become more proficient in linux and other cloud computing related skills to include blockchain software development (e.g. Hyperledger/Solidity)
-- 👯 I’m looking to collaborate on open source cloud computing and blockchain related projects. 
+- 🔭 I’m currently working on improving my cloud skills with an emphasis on DevOps and AI. When not studying, I'm either building, managing, or learning more about cryptocurrency software and mining machines such as: GPU miners; HNT IoT wireless nodes, Lightning nodes, and ASICS.
+- 🌱 I’m currently learning how to become more proficient in Python while applying it small AI projects that I've day dreamed about.
+- 👯 I’m looking to collaborate on open source software, cloud computing, and blockchain related projects. 
 - 🤔 I’m looking for help with how I can contribute to open source projects.
-- 💬 Ask me about why I think blockchain is the best thing to happen to mankined since the internet. 
+- 💬 Ask me about, "Why I think blockchain is the best thing to happen to mankind since the internet?" 
 - 📫 How to reach me: [TBD Email Address] or on Twitter (@Eric_Rylet)
 - ⚡ Fun fact: After years in life sciences, I realized my true passion was in technology.
