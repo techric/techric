@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on improving my cloud skills with an emphasis on DevOps and AI. When not studying, I'm either building, managing, or learning more about cryptocurrency software and mining machines such as: GPU miners; HNT IoT wireless nodes, Lightning nodes, and ASICS.
-- 🌱 I’m currently learning how to become more proficient in Python while applying it small AI projects that I've day dreamed about.
+- 🌱 I’m currently learning how to become more proficient in Python while applying it to small AI projects that I've daydreamed about.
 - 👯 I’m looking to collaborate on open source software, cloud computing, and blockchain related projects. 
 - 🤔 I’m looking for help with how I can contribute to open source projects.
 - 💬 Ask me about, "Why I think blockchain is the best thing to happen to mankind since the internet?" 
