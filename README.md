@@ -42,7 +42,7 @@
 
 ## 7. Contact (Please, NO Solicitation)
 <ol type="A">
-   <li>LinkedIn: <a href="https://www.linkedin.com/in/ericdpowell">linkedin.com/in/ericdpowell</a></li>
+   <li>Email: <a href="mailto:techric@mac.com">techric@mac.com</a></li>
 </ol>
 
 ## 8. Fun Fact
