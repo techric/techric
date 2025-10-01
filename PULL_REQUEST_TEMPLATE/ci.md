@@ -7,3 +7,6 @@
 - [ ] No long-lived cloud keys in CI; use OIDC if needed (plan only)
 
 Reference: [docs/security-checklist.md](docs/security-checklist.md)
+
+
+> Branch naming: `feat/<short-name>`, `fix/<short-name>`, `docs/<short-name>`, `ci/<short-name>`, `chore/<short-name>`
