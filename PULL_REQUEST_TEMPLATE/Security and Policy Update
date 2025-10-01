@@ -1,0 +1,9 @@
+### Security/policy update
+- What risk or policy are you addressing?
+
+### Verification
+- [ ] Secret scanning enabled
+- [ ] Dependabot alerts reviewed
+- [ ] No secrets in git history/artifacts
+
+Reference: [SECURITY.md](SECURITY.md) • [docs/security-checklist.md](docs/security-checklist.md)
