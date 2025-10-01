@@ -10,3 +10,6 @@
 - [ ] CI lint/validate passed
 
 Reference: [docs/security-checklist.md](docs/security-checklist.md)
+
+
+> Branch naming: `feat/<short-name>`, `fix/<short-name>`, `docs/<short-name>`, `ci/<short-name>`, `chore/<short-name>`
