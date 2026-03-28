@@ -1,5 +1,5 @@
 # Eric Powell
-*Cloud Engineer | AWS & GCP DevSecOps • Observability • Cost Optimization*
+*Cloud Engineer | Multi-Cloud (AWS & GCP) DevSecOps • Observability • Cost Optimization*
 
 ## 1. What I Do
 <ol type="A">
