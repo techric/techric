@@ -79,9 +79,7 @@ Security gates integrated into CI/CD — from code scan to EKS deployment.
 
 ## Background
 
-After years working in **life sciences**, I discovered my real passion is building cloud systems — designing the infrastructure that makes everything else possible.
-
-I believe **blockchain represents the biggest architectural shift since the early internet**, and I enjoy thinking about what that means for cloud-native systems.
+I build cloud-native infrastructure that scales, observes itself, doesn't wake you up at 3 AM, and stays cost-efficient by design. My current obsession is the intersection of distributed cloud systems, AI, and blockchain — I think we're living in one of the most technologically interesting times ever.
 
 ---
 
