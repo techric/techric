@@ -88,3 +88,4 @@ I build cloud-native infrastructure that scales, observes itself, doesn't wake y
 [techric@mac.com](mailto:techric@mac.com)
 
 > **Please, no solicitation.** Genuine collaborators and opportunities only.
+
