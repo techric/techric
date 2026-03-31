@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/techric/techric/main/assets/iStock-2200128716-Cropped for banner.jpg" width="100%">
+  <img src="https://raw.githubusercontent.com/techric/techric/main/assets/iStock-2200128716-cropped-for-banner.jpg" width="100%">
 </p>
+
+
 
 # Eric Powell
 ### Cloud Engineer · Multi-Cloud (AWS & GCP) · DevSecOps · Observability · Cost Optimization
