@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/techric/techric/main/assets/stock-2200128716.jpg" width="100%">
+</p>
+
 # Eric Powell
 ### Cloud Engineer · Multi-Cloud (AWS & GCP) · DevSecOps · Observability · Cost Optimization
 
