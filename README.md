@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/techric/techric/main/assets/iStock-2200128716.jpg" width="100%">
+  <img src="https://raw.githubusercontent.com/techric/techric/main/assets/iStock-2200128716-Cropped for banner.jpg" width="100%">
 </p>
 
 # Eric Powell
