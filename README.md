@@ -54,47 +54,40 @@ Security gates integrated into CI/CD — from code scan to EKS deployment.
 
 ## Open to Collaborating On
 
-- Open source cloud tooling and IaC examples
-- Cloud and security best-practice docs and templates
+- Open source cloud native computing projects
 - Linux-related projects
+- Blockchain technology related projects
+- Cloud and security best-practice docs and templates
+
 
 ---
 
 ## Tech Stack
 
-**Cloud:** AWS · GCP  
-**IaC:** Terraform  
-**Containers/Orchestration:** Amazon EKS · Kubernetes  
-**Observability:** Grafana · Prometheus · Loki  
-**Analytics:** AWS Athena · AWS QuickSight  
-**DevOps:** CI/CD pipelines · automated builds · AI-powered software delivery  
-**Languages:** Bash/Shell · HCL · Hyperledger Fabric · Python · YAML · JSON · Go · SQL
-
-
-## 🛠 Tech Stack
-
 **Cloud:** AWS · GCP
-**Infrastructure as Code:** Terraform · HCL
-**Containers & Orchestration:** Docker · Kubernetes · Amazon EKS · Google Kubernetes Engine (GKE)
-**DevOps & CI/CD:** GitHub Actions · GitLab CI/CD · Automated Builds · AI-Powered Delivery
-**Observability:** Grafana · Prometheus · Loki · OpenTelemetry · Google Cloud Monitoring · Cloud Logging
-**Analytics:** AWS Athena · AWS QuickSight · BigQuery · Looker Studio
+**IaC:** Terraform HCL
+**Containers/Orchestration:** Docker · Kubernetes · Amazon EKS · Google Kubernetes Engine (GKE)
+**DevOps & CI/CD:** GitLab CI/CD · GitHub Actions · Automated Builds · AI-Powered Delivery  
+**Observability:** Prometheus · Grafana · Loki  · OpenTelemetry · Google Cloud Monitoring · Cloud Logging
 **AI:** Claude Code · Anthropic API
-**Languages:** Python · Bash/Shell · Go · SQL · YAML · JSON
-**Blockchain:** Hyperledger Fabric
+**Languages:** Bash/Shell · Python · YAML · JSON · Go · SQL
+**Distributed Ledger Technology:** Hyperledger Fabric
 
-
+---
 
 ## Tooling
 
 | Category | Tools |
 |---|---|
-| **OS** | Linux |
-| **Kubernetes** | K9s · Helm · Skaffold · Kubectx · ArgoCD · Stern |
-| **IaC** | Terraform · Vault · Taskfile |
-| **Cloud CLIs** | AWS CLI · GCP SDK · Azure CLI |
-| **Security** | Trivy · pre-commit |
-| **GUI** | Lens |
+| **OS** | Ubuntu LTS |
+| **Terminal** | Claude Code |
+| **Editor** | VS Code · GitLens |
+| **Kubernetes** | K9s · Lens · Helm · Skaffold · Kubectx · ArgoCD · Stern |
+| **IaC** | Terraform · Taskfile |
+| **Container Tools** | Docker Desktop |
+| **Cloud CLIs** | AWS CLI · GCP SDK |
+| **Diagramming** | Mermaid · Lucidchart |
+| **Security** | Vault · Trivy · pre-commit |
 
 ---
 
@@ -108,5 +101,5 @@ I build cloud-native infrastructure that scales, observes itself, doesn't wake y
 
 [hireericpowell@gmail.com](mailto:hireericpowell@gmail.com)
 
-> **Please, no solicitation.** Genuine collaborators and opportunities only.
+> **Please, NO solicitations.** Genuine employment opportunities or project collaborations ONLY.
 
