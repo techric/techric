@@ -15,9 +15,12 @@
 
 | Domain | Focus |
 |---|---|
-| **Cloud Architecture** | Build AWS & GCP environments — IaC-first, least privilege, audit-ready |
-| **Observability** | Grafana · Prometheus · Loki on Amazon EKS; AWS Athena + QuickSight for cost reporting |
-| **DevOps** | Building CI/CD pipelines for AI-powered software — automated builds, deployments, and delivery workflows |
+| **Cloud Architecture** | Design and build AWS & GCP environments — IaC-first, least privilege, audit-ready |
+| **DevOps & CI/CD** | Build and maintain pipelines for AI-powered software delivery across GitLab and GitHub Actions |
+| **Observability** | Instrument distributed systems with Prometheus · Grafana · Loki · OpenTelemetry on Kubernetes |
+| **FinOps** | Cloud cost visibility, optimization, and governance across AWS and GCP |
+| **Agile Delivery** | Product ownership and scrum facilitation at team and enterprise scale |
+| **Curriculum Development** | Design and build applied cloud engineering programs for working practitioners |
 
 ---
 
