@@ -101,5 +101,5 @@ I build cloud-native infrastructure that scales, observes itself, doesn't wake y
 
 [hireericpowell@gmail.com](mailto:hireericpowell@gmail.com)
 
-> **Please, NO solicitations.** Genuine employment opportunities or project collaborations ONLY.
+> **Please, NO solicitations.** Genuine employment opportunities or project collaboration requests ONLY.
 
