@@ -26,20 +26,23 @@
 
 ## Featured Projects
 
-### [Cloud Engineer New Machine Bootstrap](https://github.com/techric/cloud-engineer-new-machine-bootstrap)
+### 1. [Cloud Engineer New Machine Bootstrap](https://github.com/techric/cloud-engineer-new-machine-bootstrap)
 A single bootstrap command that sets up a complete cloud engineering toolchain on a fresh Mac — Kubernetes tools, IaC, cloud CLIs (AWS, GCP, Azure), and more. New machine setup goes from hours of manual work to one command.
 
-### [Recruiter-Friendly README Template](https://github.com/techric/Recruiter-Friendly-README-Template)
+### 2. [Recruiter-Friendly README Template](https://github.com/techric/Recruiter-Friendly-README-Template)
 Starter template I use across all my AWS demo repos — standardized docs, screenshots, and architecture diagrams.
 
-### AWS Observability on Amazon EKS *(coming soon)*
+---
+## Projects I'm Contemplating
+
+### a. AWS DevSecOps Pipeline *(coming soon)*
+Security gates integrated into CI/CD — from code scan to EKS deployment.
+
+### b. AWS Observability on Amazon EKS *(coming soon)*
 Prometheus · Loki · Grafana stack deployed to EKS with full alerting and dashboards.
 
-### AWS Cost Optimization Dashboard *(coming soon)*
+### c. AWS Cost Optimization Dashboard *(coming soon)*
 AWS Athena + QuickSight pipeline for cost visibility and anomaly detection.
-
-### AWS DevSecOps Pipeline *(coming soon)*
-Security gates integrated into CI/CD — from code scan to EKS deployment.
 
 ---
 
