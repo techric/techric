@@ -73,13 +73,13 @@ Security gates integrated into CI/CD — from code scan to EKS deployment.
 
 🐳 **Containers/Orchestration:** Docker · Kubernetes · Amazon EKS · Google Kubernetes Engine (GKE)
 
-⚙️ *DevOps & CI/CD:** GitLab CI/CD · GitHub Actions · Automated Builds · AI-Powered Delivery 
+⚙️ **DevOps & CI/CD:** GitLab CI/CD · GitHub Actions · Automated Builds · AI-Powered Delivery 
 
 📡 **Observability:** Prometheus · Grafana · Loki  · OpenTelemetry · Google Cloud Monitoring · Cloud Logging
 
-🤖 *AI:** Claude Code · Anthropic API
+🤖 **AI:** Claude Code · Anthropic API
 
-💻 *Languages:** Bash/Shell · Python · YAML · JSON · Go · SQL
+💻 **Languages:** Bash/Shell · Python · YAML · JSON · Go · SQL
 
 🔗 **Distributed Ledger Technology:** Hyperledger Fabric
 
