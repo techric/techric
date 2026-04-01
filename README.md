@@ -70,6 +70,21 @@ Security gates integrated into CI/CD — from code scan to EKS deployment.
 **DevOps:** CI/CD pipelines · automated builds · AI-powered software delivery  
 **Languages:** Bash/Shell · HCL · Hyperledger Fabric · Python · YAML · JSON · Go · SQL
 
+
+## 🛠 Tech Stack
+
+**Cloud:** AWS · GCP
+**Infrastructure as Code:** Terraform · HCL
+**Containers & Orchestration:** Docker · Kubernetes · Amazon EKS · Google Kubernetes Engine (GKE)
+**DevOps & CI/CD:** GitHub Actions · GitLab CI/CD · Automated Builds · AI-Powered Delivery
+**Observability:** Grafana · Prometheus · Loki · OpenTelemetry · Google Cloud Monitoring · Cloud Logging
+**Analytics:** AWS Athena · AWS QuickSight · BigQuery · Looker Studio
+**AI:** Claude Code · Anthropic API
+**Languages:** Python · Bash/Shell · Go · SQL · YAML · JSON
+**Blockchain:** Hyperledger Fabric
+
+
+
 ## Tooling
 
 | Category | Tools |
