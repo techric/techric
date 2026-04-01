@@ -54,7 +54,6 @@ AWS Athena + QuickSight pipeline for cost visibility and anomaly detection.
 ## Currently Learning
 
 - Hyperledger Fabric on GCP and AWS infrastructure
-- Advanced AWS cost optimization and observability patterns
 
 ---
 
